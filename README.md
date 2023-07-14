@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://github.com/sanhubpro/tienvetienve/files/12045057/Mink.Hub.txt"))()
+loadstring(game:HttpGet("https://github.com/sanhubpro/tienvetienve/files/12051780/Loyz.Hub.txt"))()
